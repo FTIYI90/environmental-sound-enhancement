@@ -1,0 +1,47 @@
+filename,label,split
+#NAME?,ambulance siren,train
+#NAME?,ambulance siren,train
+#NAME?,police car (siren),train
+#NAME?,police car (siren),train
+#NAME?,fire truck siren,test
+-1Cvs1_xWW4_000000.mp4,fire truck siren,train
+-6u76q0L5o8_000067.mp4,civil defense siren,test
+#NAME?,civil defense siren,train
+-1X2N5XJckw_000000.mp4,"vehicle horn, car horn, honking",train
+#NAME?,"vehicle horn, car horn, honking",train
+-1cRD9GzcFY_000000.mp4,air horn,train
+#NAME?,air horn,train
+-9I17YJGFug_000000.mp4,train horning,train
+#NAME?,train horning,train
+#NAME?,train whistling,test
+-79qo5MUYBk_000207.mp4,train whistling,test
+-5QEN0mzCGA_000015.mp4,car passing by,train
+#NAME?,car passing by,train
+-3YWuPXHknk_000030.mp4,car engine starting,test
+#NAME?,car engine starting,train
+#NAME?,"engine accelerating, revving, vroom",test
+#NAME?,"engine accelerating, revving, vroom",train
+0QPuoCmYU60_000010.mp4,car engine idling,test
+0Zm0ti8edsQ_000263.mp4,car engine idling,test
+-1pRmoJIGQc_000010.mp4,car engine knocking,test
+#NAME?,car engine knocking,train
+-3rHVsIj1M8_000030.mp4,wind noise,test
+#NAME?,wind noise,train
+#NAME?,wind rustling leaves,test
+#NAME?,wind rustling leaves,train
+-0WfESRV74k_000000.mp4,raining,train
+#NAME?,raining,train
+-3-4qmWSJXU_000030.mp4,thunder,test
+0439dMJj-FY_000030.mp4,thunder,test
+0H25ve3qts4_000001.mp4,door slamming,test
+#NAME?,door slamming,train
+#NAME?,sliding door,test
+#NAME?,sliding door,train
+#NAME?,opening or closing car doors,test
+-5pcv3sZHEE_000003.mp4,opening or closing car doors,train
+#NAME?,footsteps on snow,test
+07bi-w2VKeg_000035.mp4,footsteps on snow,test
+#NAME?,helicopter,train
+#NAME?,helicopter,train
+#NAME?,airplane flyby,test
+#NAME?,airplane flyby,train

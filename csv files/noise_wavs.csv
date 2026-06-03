@@ -1,0 +1,23 @@
+wav,label,split,src_mp4
+-3rHVsIj1M8_000030.wav,wind noise,test,-3rHVsIj1M8_000030.mp4
+-GDkljH9Hsg_000011.wav,wind noise,train,-GDkljH9Hsg_000011.mp4
+-XxUW9gW6mc_000060.wav,wind rustling leaves,test,-XxUW9gW6mc_000060.mp4
+-ZNkHRqvFmc_000005.wav,wind rustling leaves,train,-ZNkHRqvFmc_000005.mp4
+-0WfESRV74k_000000.wav,raining,train,-0WfESRV74k_000000.mp4
+-cjxRKdMcgw_000016.wav,raining,train,-cjxRKdMcgw_000016.mp4
+-3-4qmWSJXU_000030.wav,thunder,test,-3-4qmWSJXU_000030.mp4
+0439dMJj-FY_000030.wav,thunder,test,0439dMJj-FY_000030.mp4
+-9I17YJGFug_000000.wav,train horning,train,-9I17YJGFug_000000.mp4
+-Gbohom8C4Q_000030.wav,train horning,train,-Gbohom8C4Q_000030.mp4
+-2-wdcN5vOw_000017.wav,train whistling,test,-2-wdcN5vOw_000017.mp4
+-79qo5MUYBk_000207.wav,train whistling,test,-79qo5MUYBk_000207.mp4
+-5QEN0mzCGA_000015.wav,car passing by,train,-5QEN0mzCGA_000015.mp4
+--xDffQ9Mwo_000030.wav,car passing by,train,--xDffQ9Mwo_000030.mp4
+-3YWuPXHknk_000030.wav,car engine starting,test,-3YWuPXHknk_000030.mp4
+-OXCCrp2Dm8_000014.wav,car engine starting,train,-OXCCrp2Dm8_000014.mp4
+-OVb-UG8yJw_000030.wav,"engine accelerating, revving, vroom",test,-OVb-UG8yJw_000030.mp4
+-Qcr7SsJbts_000010.wav,"engine accelerating, revving, vroom",train,-Qcr7SsJbts_000010.mp4
+0QPuoCmYU60_000010.wav,car engine idling,test,0QPuoCmYU60_000010.mp4
+0Zm0ti8edsQ_000263.wav,car engine idling,test,0Zm0ti8edsQ_000263.mp4
+-1pRmoJIGQc_000010.wav,car engine knocking,test,-1pRmoJIGQc_000010.mp4
+-OGq-n_9EYA_000000.wav,car engine knocking,train,-OGq-n_9EYA_000000.mp4

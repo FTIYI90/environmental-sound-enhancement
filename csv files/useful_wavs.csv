@@ -1,0 +1,25 @@
+wav,label,split,src_mp4
+-LGTb-xyjzA_000011.wav,ambulance siren,train,-LGTb-xyjzA_000011.mp4
+-VqJVXFnlGE_000015.wav,ambulance siren,train,-VqJVXFnlGE_000015.mp4
+-XRiLbb3Syo_000002.wav,police car (siren),train,-XRiLbb3Syo_000002.mp4
+-AFASmp1fpk_000006.wav,police car (siren),train,-AFASmp1fpk_000006.mp4
+-RBs9pPhHY8_000030.wav,fire truck siren,test,-RBs9pPhHY8_000030.mp4
+-1Cvs1_xWW4_000000.wav,fire truck siren,train,-1Cvs1_xWW4_000000.mp4
+-6u76q0L5o8_000067.wav,civil defense siren,test,-6u76q0L5o8_000067.mp4
+-FLfbQMD7zo_000015.wav,civil defense siren,train,-FLfbQMD7zo_000015.mp4
+-1X2N5XJckw_000000.wav,"vehicle horn, car horn, honking",train,-1X2N5XJckw_000000.mp4
+-ERY2p905dE_000001.wav,"vehicle horn, car horn, honking",train,-ERY2p905dE_000001.mp4
+-1cRD9GzcFY_000000.wav,air horn,train,-1cRD9GzcFY_000000.mp4
+-q0m29pHK98_000001.wav,air horn,train,-q0m29pHK98_000001.mp4
+0H25ve3qts4_000001.wav,door slamming,test,0H25ve3qts4_000001.mp4
+-DaNn4McBi8_000000.wav,door slamming,train,-DaNn4McBi8_000000.mp4
+-wQ8El8J_dE_000030.wav,sliding door,test,-wQ8El8J_dE_000030.mp4
+-lKESICIPBA_000005.wav,sliding door,train,-lKESICIPBA_000005.mp4
+-yrglmBmErg_000225.wav,opening or closing car doors,test,-yrglmBmErg_000225.mp4
+-5pcv3sZHEE_000003.wav,opening or closing car doors,train,-5pcv3sZHEE_000003.mp4
+-T8L4SVm3u0_000001.wav,footsteps on snow,test,-T8L4SVm3u0_000001.mp4
+07bi-w2VKeg_000035.wav,footsteps on snow,test,07bi-w2VKeg_000035.mp4
+-Wr1LEmgz9w_000000.wav,helicopter,train,-Wr1LEmgz9w_000000.mp4
+-BIuMd0jCjU_000010.wav,helicopter,train,-BIuMd0jCjU_000010.mp4
+-Lv13WPa4xk_000170.wav,airplane flyby,test,-Lv13WPa4xk_000170.mp4
+-KdBaGgzf4w_000027.wav,airplane flyby,train,-KdBaGgzf4w_000027.mp4
